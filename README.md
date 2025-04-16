@@ -36,20 +36,7 @@
   </tr>
 </table>
 
-<div align=center>     
 
-    
-### 🙇🏻 Information
-<p>
-     My main interest is <b>Back-end</b> and <b>AI</b> Development.<br>
-     My Primary Programming Languages are <b>JAVA</b>, <b>NodeJS</b> and <b>Python</b>.<br>
-</p>
-
-<div align=center>   
-<p>
-    <a href="mailto:kenc1010l@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kenc1010l@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-</div>
 <br>
 
 ### Skills
