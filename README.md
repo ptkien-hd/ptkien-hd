@@ -5,6 +5,22 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ![GitHub followers](https://img.shields.io/github/followers/ptkien-hd?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
+<p>
+<b>In 9+ years on software development</b>
+<br/>• Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases).
+<br/>• Hard work - progressive - eager.
+<br/>• Strong in research & development, also willing to learn new technologies.
+<br/>• Logical thinking and solving technical issue independent.
+<br/><b>Core Competencies</b>
+ <br/>• Offshoring / Outsourcing
+ <br/>• Programming
+ <br/>• Requirement/Problem Analysis
+ <br/>• Code Quality Assurance 
+ <br/>• Sharing Knowledge
+ <br/>• Teamwork
+ <br/>• Learning
+ <br/>• Testing
+ </p>
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
