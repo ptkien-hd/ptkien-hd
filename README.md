@@ -2,8 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <!-- Title -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Phan+Trung+Kiên+👋)](https://git.io/typing-svg)
-
+<div align=center>
 ### 🙇🏻 Information
+</div>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ![GitHub followers](https://img.shields.io/github/followers/ptkien-hd?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
@@ -34,11 +35,7 @@
     </td>
   </tr>
 </table>
-<div align=center>     
-<p>
-    <a href="mailto:kenc1010l@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kenc1010l@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-</div>
+
 <br>
 
 ### Skills
