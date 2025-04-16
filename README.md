@@ -39,7 +39,7 @@
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 ### Tools, languages, and other things that I like to work with.
 <br/><br/>
-<table style="background-color: white">
+<table style="background: white">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
