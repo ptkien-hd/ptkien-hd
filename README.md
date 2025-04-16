@@ -3,15 +3,11 @@
 <!-- Title -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Phan+Trung+Kiên+👋)](https://git.io/typing-svg)
 
-<a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptkien-hd&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC" width=94%/>
-</a>
-
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=ptkien-hd&show_icons=true&theme=radical&hide_border=true&bg_color=FF6F91&icon_color=FEFEDF&text_color=FBEAFF&title_color=F9F871&count_private=true" width="100%" style="display: block;" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptkien-hd&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC" width=50%/>
       </a>
     </td>
     <td style="border: none; width: 50%;">
@@ -33,7 +29,6 @@
 
 <div align=center>   
 <p>
-    <a href="https://phantrungkien.info" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:kenc1010l@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kenc1010l@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 </div>
