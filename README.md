@@ -3,19 +3,19 @@
 <!-- Title -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Phan+Trung+Kiên+👋)](https://git.io/typing-svg)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptkien-hd&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC" width=94%/>
 </a>
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=ptkien-hd&show_icons=true&theme=radical&hide_border=true&bg_color=FF6F91&icon_color=FEFEDF&text_color=FBEAFF&title_color=F9F871&count_private=true" width="100%" style="display: block;" />
       </a>
     </td>
     <td style="border: none; width: 50%;">
-      <a href="https://solved.ac/delightes">
+      <a href="#">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ptkien-hd" width="100%" style="display: block;" />
       </a>
     </td>
@@ -28,7 +28,7 @@
 ### 🙇🏻 Information
 <p>
      My main interest is <b>Back-end</b> and <b>AI</b> Development.<br>
-     My Primary Programming Languages are <b>JAVA</b>, <b>NodeJsS</b> and <b>Python</b>.<br>
+     My Primary Programming Languages are <b>JAVA</b>, <b>NodeJS</b> and <b>Python</b>.<br>
 </p>
 
 <div align=center>   
