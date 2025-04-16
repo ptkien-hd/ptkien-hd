@@ -6,20 +6,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/ptkien-hd?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
 <p>
-<b>In 9+ years on software development</b>
 <br/><i>• Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases).</i>
 <br/><i>• Hard work - progressive - eager.</i>
 <br/><i>• Strong in research & development, also willing to learn new technologies.</i>
 <br/><i>• Logical thinking and solving technical issue independent.</i>
-<br/><b>Core Competencies</b>
+<br/><br/><b>Core Competencies</b>
  <br/><i>• Offshoring / Outsourcing</i>
- <br/><i>• Programming</i>
+ <br/><i>• Programming/Testing</i>
  <br/><i>• Requirement/Problem Analysis</i>
  <br/><i>• Code Quality Assurance </i>
- <br/><i>• Sharing Knowledge</i>
+ <br/><i>• Sharing Knowledge/Learning</i>
  <br/><i>• Teamwork</i>
- <br/><i>• Learning</i>
- <br/><i>• Testing</i>
  </p>
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
