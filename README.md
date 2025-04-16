@@ -3,9 +3,8 @@
 <!-- Title -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Phan+Trung+Kiên+👋)](https://git.io/typing-svg)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+![GitHub followers](https://img.shields.io/github/followers/ptkien-hd?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
