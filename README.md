@@ -7,7 +7,7 @@
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
       <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptkien-hd&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC" width=50%/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptkien-hd&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
       </a>
     </td>
     <td style="border: none; width: 50%;">
@@ -78,3 +78,8 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+
+
+
+
