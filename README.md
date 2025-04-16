@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <!-- Title -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Phan+Trung+Kiên+👋)](https://git.io/typing-svg)
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
@@ -34,7 +34,7 @@
 </div>
 <br>
 
-### Skill
+### Skills
 <p>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -78,8 +78,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
-
-
-
-
